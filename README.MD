@@ -8,7 +8,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/debs-obrien/mcp-weather-server-demo.git
-cd mcp-weather-server
+cd mcp-weather-server-demo
 ```
 
 ### 1. Install Dependencies
@@ -74,15 +74,10 @@ server.connect(transport);
 
 - `@modelcontextprotocol/sdk` - MCP server framework
 - `zod` - Schema validation
-- `tsx` - TypeScript execution (for development)
 
 ## API Used
 
 - [Open-Meteo](https://open-meteo.com/) - Free weather API with no authentication required
-
-## Contributing
-
-Feel free to extend this server with additional weather features like forecasts, alerts, or air quality data!
 
 ## Read the full Blog post
 
