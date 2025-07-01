@@ -81,7 +81,7 @@ server.connect(transport);
 
 ## Read the full Blog post
 
-[Building Your First MCP Weather Server: A Complete Tutorial](https://dev.to/debs_obrien/building-your-first-mcp-weather-server-a-complete-tutorial-3935-temp-slug-1558836?preview=5bad402d6cea1ecfbd048cf83f08b82d94ef54fad67dbef046b8ed243f0c0fc28da527f935d98b72e3aab90e8e29fe73cc96b352510628ba546eb54b)
+[Building Your First MCP Weather Server: A Complete Tutorial](https://dev.to/debs_obrien/building-your-first-mcp-server-a-beginners-tutorial-5fag)
 
 ## Watch the Demo
 
