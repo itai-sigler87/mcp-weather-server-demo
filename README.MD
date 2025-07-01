@@ -85,4 +85,4 @@ server.connect(transport);
 
 ## Watch the Demo
 
-[![Build an MCP Server Beginners Tutorial](https://img.youtube.com/vi/e6i4H1N0MD4/maxresdefault.jpg)](https://www.youtube.com/watch?v=e6i4H1N0MD4)
+[![Build an MCP Server Beginners Tutorial](https://img.youtube.com/vi/egVm_z1nnnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=egVm_z1nnnQ)
