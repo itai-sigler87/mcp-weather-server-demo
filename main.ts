@@ -1,5 +1,5 @@
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
-import { ExpressServerTransport } from '@modelcontextprotocol/sdk/server/express.js';
+import { ExpressServerTransport } from '@modelcontextprotocol/sdk/transports/express.js';
 import { z } from 'zod';
 import express from 'express';
 
