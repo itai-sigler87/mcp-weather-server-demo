@@ -2,22 +2,17 @@
   "name": "weather-mcp-server-for-render",
   "version": "1.0.0",
   "description": "An MCP weather server adapted for Render web deployment.",
-  "main": "dist/main.js",
+  "main": "main.ts",
   "type": "module",
   "scripts": {
-    "build": "tsc",
-    "start": "node dist/main.js"
+    "start": "tsx main.ts"
   },
-  "keywords": [
-    "mcp",
-    "weather",
-    "render"
-  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.2",
     "express": "^4.19.2",
+    "tsx": "^4.16.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
