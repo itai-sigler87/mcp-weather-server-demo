@@ -1,5 +1,5 @@
-import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
-import { ExpressServerTransport } from '@modelcontextprotocol/sdk/server/express.js';
+import { McpServer } from '@modelcontextprotocol/sdk/dist/cjs/server/mcp.js';
+import { ExpressServerTransport } from '@modelcontextprotocol/sdk/dist/cjs/server/express.js';
 import { z } from 'zod';
 import express from 'express';
 
@@ -35,7 +35,7 @@ server.tool(
   }
 );
 
-// Use the Express transport instead of the Stdio transport
+// Use the Express transport
 const transport = new ExpressServerTransport();
 server.connect(transport);
 
